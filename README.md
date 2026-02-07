@@ -4,9 +4,7 @@ A comprehensive acetaminophen (Tylenol) dosing calculator that provides safe, ag
 
 ## 🔗 Live Demo
 
-[View Live Calculator](https://yourusername.github.io/tylenol-dosing-calculator/)
-
-*(Replace `yourusername` with your actual GitHub username)*
+[View Live Calculator](https://smbrownai.github.io/tylenol-dosing-calc/)
 
 ## 📋 Overview
 
